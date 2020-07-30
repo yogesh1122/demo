@@ -1,0 +1,9 @@
+{
+  "SERVER": {
+    "PORT": 9001,
+    "HOST": "localhost"
+  },
+  "MONGO_CONFIG": {
+    "MONGO_URI": "mongodb://localhost:27017/demo-1"
+  }
+}
